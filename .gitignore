@@ -1,0 +1,8 @@
+/.venv/
+*.log
+.env
+.env.local
+.DS_Store
+/__pycache__/
+*.tmp
+/.idea/
